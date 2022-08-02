@@ -1,0 +1,17 @@
+51301161 - Le Minh Phuong - 2013 - 7.5
+51502010 - Nguyen An Khang - 2015 - 5.6
+51201010 - Ho Dai Phat Tai - 2012 - 9.2
+51403039 - Dung Cam Quang - 2014 - 10.0
+51301212 - Tran Thi Kim Trinh - 2013 - 6.5
+51301003 - Luu Tu Chau - 2013 - 5.7
+51902051 - Nguyen Thi Anh - 2019 - 8.2
+51803001 - Nguyen Van Duy - 2018 - 8.2
+51702056 - Le Thi Thu Thao - 2017 - 7.5
+51603021 - Dinh Quoc Thinh - 2016 - 5.6
+51401008 - Vu Bao Dang Khoa - 2014 - 8.9
+51401020 - Pham Thanh Hoang - 2014 - 10.0
+51403323 - Dang Nhat Quang - 2014 - 7.5
+51403070 - Dinh Trong Khoi - 2014 - 7.5
+51903001 - Nguyen Binh An - 2019 - 4.0
+51902051 - Tran Van Dan - 2019 - 8.2
+51201010 - Nguyen Thi Minh - 2012 - 9.2

@@ -1,0 +1,4 @@
+SinhVien [id=51201010, name=Ho Dai Phat Tai, enrollmentYear=2012, gpa=9.2]
+SinhVien [id=51301003, name=Luu Tu Chau, enrollmentYear=2013, gpa=5.7]
+SinhVien [id=51301161, name=Le Minh Phuong, enrollmentYear=2013, gpa=7.5]
+SinhVien [id=51301212, name=Tran Thi Kim Trinh, enrollmentYear=2013, gpa=6.5]

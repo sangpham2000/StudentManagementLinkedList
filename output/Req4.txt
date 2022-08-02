@@ -1,0 +1,1 @@
+SinhVien [id=51401020, name=Pham Thanh Hoang, enrollmentYear=2014, gpa=10.0]

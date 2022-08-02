@@ -1,0 +1,2 @@
+SinhVien [id=51403039, name=Nguyen Van A, enrollmentYear=2014, gpa=9.0]
+SinhVien [id=51800196, name=Tran Nguyen B, enrollmentYear=2018, gpa=7.0]

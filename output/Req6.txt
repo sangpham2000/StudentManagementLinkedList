@@ -1,0 +1,2 @@
+SinhVien [id=51403039, name=Dung Cam Quang, enrollmentYear=2014, gpa=10.0]
+SinhVien [id=51403323, name=Dang Nhat Quang, enrollmentYear=2014, gpa=7.5]
